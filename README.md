@@ -1,4 +1,4 @@
-# projeto--Portif-lio
+# projeto--Portfólio
 Página de Portfólio / Currículo Web de um desenvolvedor. 
 
 ## Objetivo

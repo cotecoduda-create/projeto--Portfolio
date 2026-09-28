@@ -7,6 +7,7 @@ Criar uma página HTML limpa, semântica e funcional que reproduza fielmente os 
 
 - # Cabeçalho & Navegação:
   Título principal com o nome/cargo e um menu de navegação com links para as seções (Sobre, Projetos, Contato)
+  
 - # Seção "Sobre Mim":
 - Foto de perfil formatada com tamanho aproximado de 150px de altura x 150px de largura.
 - Texto de apresentação e lista com Minhas Habilidades.

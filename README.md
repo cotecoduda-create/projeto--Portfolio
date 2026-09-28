@@ -3,7 +3,7 @@ Página de Portfólio / Currículo Web de um desenvolvedor.
 
 # Objetivo
 
-Criar uma página HTML limpa, semântica e funcional que reproduza fielmente os tópicos e a organização do layout do modelo.📝 Requisitos Principais✅ Elementos Essenciais
+Criar uma página HTML limpa, semântica e funcional que reproduza fielmente os tópicos e a organização do layout do modelo. Requisitos Principais Elementos Essenciais
 
 - # Cabeçalho & Navegação:
   Título principal com o nome/cargo e um menu de navegação com links para as seções (Sobre, Projetos, Contato)
